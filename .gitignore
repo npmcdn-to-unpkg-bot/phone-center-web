@@ -1,0 +1,6 @@
+node_modules
+logs/
+public/static/uploads/
+public/static/reports/
+public/doc/
+apidoc/
